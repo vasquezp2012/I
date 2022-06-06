@@ -3,12 +3,13 @@ body{
 	padding: 0;
 	display: flex;
 	justify-content: center;
-	align-items: right;
+	align-items: center;
 	height: 100vh;
 	background: #1a0321;
 	font-family: consolas;
-
 }
+
+
 .btn-neon{
 	position: relative;
 	display: inline-block;
@@ -81,7 +82,10 @@ body{
 	transition: 1s;
 	transition-delay: 0.75s;
 }
+
   
+
+
 
 
 
